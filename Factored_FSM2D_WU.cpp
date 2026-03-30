@@ -1,5 +1,6 @@
 /*
 	2D isotropic media, FSM for factored eikonal equation(Multiplicative factor)
+	Revised from 3D Factored Fast Sweeping Method Written By Zhang Jianming, 2022.10.10 (Factored_FSM.cpp)
 	Dunshi Wu, 2026-3-29, OK
 */
 
